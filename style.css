@@ -96,6 +96,11 @@ h1{
     text-align: center;
 }
 
+#answearText{
+    padding: 0% 19% 0% 19%;
+    text-align: center;
+}
+
 /*
 
 li{
@@ -168,3 +173,19 @@ swiper-container {
     padding-left: 30%;
     align-items: center;
   }
+
+
+
+
+
+  .fb-like{
+	align-items: center;
+	padding-left: 37%;
+  }
+
+
+#scanme{
+    padding-left: 35%;
+
+}
+
