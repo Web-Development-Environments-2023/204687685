@@ -8,5 +8,7 @@ I built my site for Moshe Nussbaum because I think he is a very brave and very s
 I designed the site in such a way that it would suit Moshe's character - a serious news reporter all his life. I chose to use colors that characterize the channel he works in and kept a minimalist, innovative and formal design.
 
 
-ID: 204687685
+ID: 204687685.    
+<br/>
+<br/>
 Link: https://web-development-environments-2023.github.io/204687685/
