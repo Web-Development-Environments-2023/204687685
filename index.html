@@ -232,17 +232,18 @@
       <br/>
       <br/>
       <div class="containerContact">
-        <form method="post" action = "mailto: ayelem@post.bgu.ac.il" onsubmit="sendEmail(); reset(); return false;">
+        <form method="post" action = "mailto: ayelem@post.bgu.ac.il" onsubmit="reset(); return false;">
             <input type="text" id="name" placeholder="Your Name" required>
             <input type="email" id="email" placeholder="Your Email" required>
-            <input type="text" id="phone" placeholder="Your Phone Number" required>
+            <input type="text" id="phone" placeholder="Your Phone Number" >
             <textarea id="message" rows="4" placeholder="How can i help you?"></textarea>
-            <button type="submit">Send </button>
+            <button type="submit" name="submit" value="Send">Send</button>
+
 
             <script src="https://cdnjs.cloudflare.com/ajax/libs/emojionearea/3.4.2/emojionearea.min.js" ></script>
             <script type="text/javascript">
               $('#message').emojioneArea({
-                pickerPosition:'bottom'
+                pickerPosition:'buttom'
               });
 
             </script>
